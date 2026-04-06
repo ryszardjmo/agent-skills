@@ -1,0 +1,8 @@
+name: agent-skills
+version: 1.0.0
+description: shared agent skills demo
+author: Rys Jenvey
+dependencies:
+  apm: []
+  mcp: []
+scripts: {}
